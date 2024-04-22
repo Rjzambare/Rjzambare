@@ -1,0 +1,12 @@
+
+venv/
+myenv/*
+.env
+
+/__pycache__/
+
+*/ACTIVE.CSV
+*/CLOSED.CSV
+*/active.csv
+*/closed.csv
+
